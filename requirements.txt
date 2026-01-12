@@ -1,0 +1,12 @@
+gradio==4.44.1
+fastapi==0.115.6
+starlette==0.41.3
+pydantic==2.9.2
+Pillow
+numpy
+torch
+transformers
+accelerate
+safetensors
+huggingface-hub
+requests
